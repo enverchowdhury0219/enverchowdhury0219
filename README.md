@@ -1,6 +1,6 @@
 # Enver Chowdhury
 
-CS & Statistics @ University of Toronto (Class of 2027) — Math Minor
+CS & Statistics @ University of Toronto (Class of 2027) - Math Minor
 
 Interested in the intersection of quantitative methods and financial markets — currently building toward low-latency systems and portfolio-level analytics work.
 
