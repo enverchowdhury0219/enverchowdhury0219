@@ -16,7 +16,7 @@ Python · C++ · SQL · R · Java
 
 ## Currently
 
-💻 Incoming Investment Analyst @ PGIM (Portfolio Analysis Group)
+💻 Incoming Investment Analyst (Portfolio Analysis Group) @ PGIM - July 2027
 
 ## Elsewhere
 
