@@ -12,7 +12,7 @@ Interested in the intersection of quantitative methods and financial markets —
 
 ## Languages
 
-Python · C++ · SQL · R
+Python · C++ · R
 
 ## Currently
 
