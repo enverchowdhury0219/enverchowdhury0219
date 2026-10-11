@@ -1,8 +1,8 @@
 # Enver Chowdhury
 
-CS & Statistics @ University of Toronto (Class of 2027) - Math Minor & Business Fundamentals Certificate
+## Education
 
-Interested in the intersection of quantitative methods and financial markets
+CS & Statistics @ University of Toronto (Class of 2027) - Math Minor & Business Fundamentals Certificate
 
 ## What I'm working on/interested in
 
