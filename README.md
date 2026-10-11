@@ -2,7 +2,7 @@
 
 CS & Statistics @ University of Toronto (Class of 2027) - Math Minor & Business Fundamentals Certificate
 
-Interested in the intersection of quantitative methods and financial markets — currently building toward low-latency systems and portfolio-level analytics work.
+Interested in the intersection of quantitative methods and financial markets
 
 ## What I'm working on/interested in
 
