@@ -13,7 +13,9 @@ Computer Science & Statistics @ University of Toronto (Class of 2027) - Mathemat
 
 ## Languages
 
-Python · C++ · R
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 
 ## Currently
 
