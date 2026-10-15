@@ -3,7 +3,7 @@
 Interested in the intersection of quantitative methods and financial markets. 
 ## Education
 
-CS & Statistics @ University of Toronto (Class of 2027) - Math Minor & Business Fundamentals Certificate
+Computer Science & Statistics @ University of Toronto (Class of 2027) - Mathematics Minor & Business Fundamentals Certificate
 
 ## What I'm working on/interested in
 
